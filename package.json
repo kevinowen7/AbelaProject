@@ -4,7 +4,7 @@
   "main": "app.js",
   "dependencies": {
     "@mdi/font": "3.7.95",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.8.0",
     "cheerio": "^1.0.0-rc.3",
